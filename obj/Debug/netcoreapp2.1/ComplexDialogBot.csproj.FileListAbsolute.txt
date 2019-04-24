@@ -1,0 +1,49 @@
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\complex-dialog.bot
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.deps.json
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.runtimeconfig.json
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.runtimeconfig.dev.json
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.dll
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.pdb
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.csproj.CoreCompileInputs.cache
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.AssemblyInfoInputs.cache
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.AssemblyInfo.cs
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.dll
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.pdb
+C:\Users\Daniele Parsi\Desktop\Condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.csprojAssemblyReference.cache
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\complex-dialog.bot
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.deps.json
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.runtimeconfig.json
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.runtimeconfig.dev.json
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.dll
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.pdb
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.csproj.CoreCompileInputs.cache
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.AssemblyInfoInputs.cache
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.AssemblyInfo.cs
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.dll
+\\port-parisi\condivisa\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.pdb
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\complex-dialog.bot
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.deps.json
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.runtimeconfig.json
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.runtimeconfig.dev.json
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.dll
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.pdb
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.csprojAssemblyReference.cache
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.csproj.CoreCompileInputs.cache
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.AssemblyInfoInputs.cache
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.AssemblyInfo.cs
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.dll
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.pdb
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\complex-dialog.bot
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.deps.json
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.runtimeconfig.json
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.runtimeconfig.dev.json
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.dll
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\bin\Debug\netcoreapp2.1\ComplexDialogBot.pdb
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.csprojAssemblyReference.cache
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.csproj.CoreCompileInputs.cache
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.AssemblyInfoInputs.cache
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.AssemblyInfo.cs
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.dll
+C:\Users\Daniele Parsi\Desktop\Progetto Daniele - Copia\Progetto Daniele\ComplexDialogBot\obj\Debug\netcoreapp2.1\ComplexDialogBot.pdb

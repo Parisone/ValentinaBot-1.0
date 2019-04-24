@@ -1,0 +1,11 @@
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\bin\Release\netcoreapp2.0\complex-dialog.bot
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\bin\Release\netcoreapp2.0\ComplexDialogBot.deps.json
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\bin\Release\netcoreapp2.0\ComplexDialogBot.runtimeconfig.json
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\bin\Release\netcoreapp2.0\ComplexDialogBot.runtimeconfig.dev.json
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\bin\Release\netcoreapp2.0\ComplexDialogBot.dll
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\bin\Release\netcoreapp2.0\ComplexDialogBot.pdb
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\obj\Release\netcoreapp2.0\ComplexDialogBot.csproj.CoreCompileInputs.cache
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\obj\Release\netcoreapp2.0\ComplexDialogBot.AssemblyInfoInputs.cache
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\obj\Release\netcoreapp2.0\ComplexDialogBot.AssemblyInfo.cs
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\obj\Release\netcoreapp2.0\ComplexDialogBot.dll
+C:\Users\Daniele Parsi\Downloads\BotFramework-Samples-master\BotFramework-Samples-master\SDKV4-Samples\dotnet_core\ComplexDialogBot\obj\Release\netcoreapp2.0\ComplexDialogBot.pdb
